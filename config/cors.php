@@ -8,7 +8,7 @@ return [
     'allowed_origins' => [
     'http://localhost:4200',
     'http://127.0.0.1:4200',
-    'https://miapp.vercel.app',
+    'https://frontend-hazel-chi-90.vercel.app',
     ],
 
     'allowed_origins_patterns' => [],
